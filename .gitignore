@@ -12,7 +12,7 @@ babel.config.js/
 babel.config.js/*
 assets/
 .expo-shared/
-
+package-lock.json/
 
 
 web-report/
